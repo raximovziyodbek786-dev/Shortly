@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.list{
+    align-items: center;
+    display: flex;
+    color: rgb(79, 79, 79);
+    gap: 20px;
+}
+li{
+    list-style: none;
+}
+.qe{
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+}
+.sing{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   background-color: aqua;
+   border-radius: 15px;
+   width: 80px;
+}
+.qr{
+justify-content: center;
+display: flex;
+align-items: center;
+gap: 70px;
+font-size: 30px;
+}
+.qt{
+    color: white;
+    background-color: aqua;
+    display: flex;
+    width:100px;
+    border-radius:15px ;
+    justify-content: center;
+    
+}
+.qy{
+   background-color: rgb(85, 32, 138);
+  display:flex;
+   height: 100px;
+   align-items: center;
+   border-radius: 10px;
+   justify-content: center;
+
+}
+input{
+    width: 600px;
+    height: 50px;
+border-radius: 5px;
+}
+.qu{
+    background-color: aqua;
+    width: 80px;
+    height: 50px;
+    border-radius: 5px;
+}
+.qi{
+    background-color: rgb(111, 29, 29);
+    display: flex;
+    justify-content: center;
+    
+}
+.qp{
+display: flex;
+    background-color: aqua;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+   height: 50px;
+   border-radius: 8px;
+}
+.qa{
+    background-color: black;
+    color: white;
+    gap: 30px;
+    display: flex;
+    align-items: center;
+  justify-content: space-between;
+
+}
+.qf{
+  display: flex;
+  align-items:center ;
+}
+.sh{
+    gap: 30px;
+    align-items: center;
+}
